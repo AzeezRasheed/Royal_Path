@@ -1,0 +1,106 @@
+.MainFCTA{
+ display: flex;
+  margin: auto;
+  align-items: center;
+  place-content: center;
+  justify-content: center;
+ flex-direction: column;
+}
+
+.h1FCTA{
+
+width: 282.71px;
+height: 57.64px;
+margin-top: 5em;
+font-family: var(--font-family);
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 54px;
+text-align: center;
+color: #013F6B;
+}
+
+.CR{
+ width: 39.97px;
+height: 29.61px;
+/* left: 939.91px; */
+margin-right: -2em;
+margin-top: 1;
+}
+.pFCTA{
+width: 271px;
+height: 54px;
+top: 5000px;
+font-family: var(--font-family);
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.4em;
+text-transform: uppercase;
+color: #FEBE1E;
+margin-bottom: 1em;
+}
+
+.pBeneathCSA{
+ width: 264.27px;
+height: 91.64px;
+top: 5116.89px;
+
+font-family: var(--font-family);
+font-style: italic;
+font-weight: 400;
+font-size: 11px;
+line-height: 200%;
+/* or 22px */
+
+
+color: #013F6B;
+}
+
+.gridFCSA{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ /* margin: auto; */
+ /* align-items: center; */
+ width: 900px;
+ height: 356.14px;
+}
+
+.flexFCS{
+ display: flex;
+
+}
+
+.flexFCS{
+ /* width: 300px; */
+height: 170.62px;
+margin-right: 45px;
+padding: 10px 10px;
+background: #FFFFFF;
+box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.05);
+margin-left: -3em
+}
+.h2FCSA{
+ width: 172px;
+height: 27px;
+margin-top: 1em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+
+
+color: rgba(1, 63, 107, 0.3);
+}
+
+.imgFCTA{
+ width: 46.91px;
+height: 44.7px;
+margin-top: 6em;
+margin-left: -1em;
+}

@@ -1,0 +1,187 @@
+
+
+.confirmPayment {
+  place-content: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 796px;
+}
+
+.H2ForPayment {
+  height: 64px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  font-variant: small-caps;
+  font-feature-settings: "case" on;
+
+  color: #013f6b;
+}
+
+.ForH3 {
+  width: 876px;
+  height: 101px;
+  background: linear-gradient(248.07deg, #0f0863 -114.29%, #128acb 64.35%);
+  border-radius: 2px;
+  box-shadow: 0px 30px 100px rgba(0, 0, 0, 0.15);
+}
+
+.H3ForPayment {
+  /* width: 312px;  */
+  text-align: center;
+  place-content: center;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: capitalize;
+  color: #ffffff;
+  padding: 30px;
+  margin: auto;
+}
+
+.InputFormPayment {
+  display: flex;
+  flex-direction: column;
+  width: 876px;
+  /* height: 461px; */
+
+  border-radius: 2px;
+  align-items: center;
+  padding: 3em;
+}
+
+.FirstInputFP {
+  align-items: center;
+  padding: 12px 16px;
+  gap: 8px;
+  background: #ebebeb;
+
+  background: #ebebeb;
+  mix-blend-mode: normal;
+  border-radius: 8px;
+}
+
+.Dh5FP {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  place-content: center;
+  padding: 10px 52px 10px 10px;
+  gap: 10px;
+  width: 670px;
+}
+.h5FP {
+  width: 530px;
+  height: 72px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(1, 63, 107, 0.3);
+  padding-left: 2em;
+}
+
+.TDNFP {
+  box-sizing: border-box;
+  width: 876px;
+  height: 88px;
+  background: #ffffff;
+  border: 3px solid #013f6b;
+  border-radius: 2px;
+}
+
+.H3TDFP {
+  height: 36px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  margin: auto;
+  text-align: center;
+  place-content: center;
+  color: #013f6b;
+  padding: 25px;
+}
+.labelFPayment {
+ color: #013F6B;
+}
+
+.GDFP {
+  width: 876px;
+  height: 101px;
+  margin-top: 2em;
+  background: linear-gradient(248.07deg, #0f0863 -114.29%, #128acb 64.35%);
+  box-shadow: 0px 30px 100px rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+}
+
+.H2GDFP {
+  height: 44px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: capitalize;
+  margin: auto;
+  text-align: center;
+  place-content: center;
+  padding: 30px;
+  color: #ffffff;
+}
+
+.FormUNFFP {
+  width: 876px;
+  height: 601px;
+}
+
+.DivUNFP {
+  width: 876px;
+  height: 492px;
+
+  padding: 4em 12em;
+  background: #ffffff;
+  box-shadow: 0px 30px 100px rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+}
+
+.EDFP{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ gap: 30px;
+}
+
+.inputForEDFP{
+ width: 240px;
+
+}
+
+.imgUFP{
+margin-left: 6em;
+}
+
+.buttonUFP{
+ width: 150px;
+ height: 50px;
+ margin-left:725px;
+ margin-top: 2em;
+ background: linear-gradient(248.07deg, #0f0863 -114.29%, #128acb 64.35%);
+ letter-spacing: 0.2px;
+ color: #ffffff;
+ border: none;
+ cursor: pointer;
+ border-radius: 6px;
+}
+
+.fButtonUFP{
+ filter: drop-shadow(0px 24px 90px rgba(0, 0, 0, 0.15));
+}

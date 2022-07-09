@@ -1,0 +1,67 @@
+.MainRegs{
+height: 100vh;
+ background: linear-gradient(124.49deg, #50C0F0 24.94%, #2B93D4 125.42%);
+ padding: 0;
+ margin: 0;
+ display: flex;
+
+}
+
+.MainForRegistration{
+ width: 796px;
+
+
+}
+
+.formForRegistration{
+ place-content: center;
+
+ display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px 50px 40px;
+gap: 2px;
+background: white;
+width: 796px;
+height: 100vh;
+/* height: 700px; */
+
+}
+
+.hForRegistration{
+width: 156px;
+height: 32px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.1px;
+color: #252B42;
+}
+
+
+
+.buttonForRegistration {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ padding: 20px 40px;
+ gap: 10px;
+border: none;
+ width: 510px;
+ height: 52px;
+
+ background: linear-gradient(265.9deg, #0f0863 -53.51%, #128acb 88.69%);
+ border-radius: 5px;
+ color: white;
+ /* Inside auto layout */
+ cursor: pointer;
+}
+
+
+.Alzea{
+margin: 3rem 2rem;
+
+}

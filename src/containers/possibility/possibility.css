@@ -1,0 +1,176 @@
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10em;
+  background: linear-gradient(359.76deg, #FFFFFF 46.74%, rgba(255, 255, 255, 0) 86.08%);
+  
+}
+
+
+
+
+.GroupsForP {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 1198px;
+  top: 2139px;
+}
+
+.underneathGroups {
+  display: flex;
+}
+
+.pForPossibilities {
+  align-items: center;
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+  color: #707070;
+}
+
+.imageForP {
+  width: 104px;
+  height: 103.13px;
+  margin-left: 10em;
+  margin-top: 3em;
+  align-items: center;
+}
+
+.h1ForP {
+  margin-top: 3em;
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #013f6b;
+}
+
+.underneathGroups {
+  margin-top: 5em;
+ 
+}
+
+.carForP {
+  width: 505px;
+  height: 600px;
+ margin-right: 0;
+}
+
+input {
+  display: flex;
+  flex-direction: row;
+  /* flex-direction: column; */
+  /* gap: 10px;  */
+  padding: 10px 10px;
+  background: #f4f5f7;
+  margin: 9px 0px;
+  /* color:black; */
+  width: 510px;
+  border: none;
+  /* background: #FFFFFF; */
+  border-radius: 1px;
+  /* Inside auto layout */
+}
+
+.h2ForP {
+  width: 156px;
+  /* height: 32px; */
+
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  margin: auto;
+  margin-top: 2em;
+  /* text-align: center; */
+  letter-spacing: 0.1px;
+}
+
+.buttonForP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 40px;
+  gap: 10px;
+border: none;
+  width: 510px;
+  height: 52px;
+
+  background: linear-gradient(265.9deg, #0f0863 -53.51%, #128acb 88.69%);
+  border-radius: 5px;
+  color: white;
+  /* Inside auto layout */
+  cursor: pointer;
+}
+
+.formForP {
+  background: white;
+  padding: 0px 50px 20px;
+  gap: 2px;
+  height: 600px;
+  margin-top: 1em;
+}
+
+.typeForP {
+  display: flex;
+  margin-top: 8rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.backgroundFP{
+  background: url('../../assets/Rectangle 150.png');
+  margin-left: 2rem;
+  
+}
+
+.rectangleForP {
+  /* position: absolute; */
+  width: 302.35px;
+  height: 241px;
+  margin: auto;
+  margin-top: 10em;
+  /* z-index: 3; */
+  background-color: brown;
+}
+
+
+
+.lineFP{
+  content:'' ;
+  display: block;
+  width: 130.58px;
+  height: 2px;
+  margin: 0.5em auto 1em;
+  background: #1EA4DE;
+}
+
+.columnTypeForP{
+  align-items: center;
+  justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.pUnderneathFP{
+  width: 180.53px;
+  /* width: 180.53px;
+height: 47.32px;
+left: 773.23px;
+top: 3620.49px; */
+
+font-family: var(--font-family);
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+margin: auto;
+color: #013F6B;
+
+}
